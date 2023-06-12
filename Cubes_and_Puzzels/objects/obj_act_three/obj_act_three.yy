@@ -1,0 +1,41 @@
+{
+  "spriteId": {
+    "name": "spr_act_wire_three_way",
+    "path": "sprites/spr_act_wire_three_way/spr_act_wire_three_way.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_act_wire_straight",
+    "path": "objects/obj_act_wire_straight/obj_act_wire_straight.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [
+    {"varType":5,"value":"noone","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"output_object1","tags":[],"resourceType":"GMObjectProperty",},
+  ],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Act wires",
+    "path": "folders/Objects/Chamber_Objects/Act wires.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_act_three",
+  "tags": [],
+  "resourceType": "GMObject",
+}
